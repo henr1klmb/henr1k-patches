@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-11-16T18:48:07",
-  "description": "## [1.2.0-dev.11](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.10...v1.2.0-dev.11) (2026-11-16)\n\n### ✨ New Features\n\n* **oebb:** add EnableOsmMap patch using HaconMapComponent ([be86f12](https://github.com/henr1klmb/henr1k-patches/commit/be86f12a9a03f3f79b05a9a7820ebe2696f2a3c1))\n\n### 🐛 Bug Fixes\n\n* **netmirror:** modified ad patch ([22b5664](https://github.com/henr1klmb/henr1k-patches/commit/22b566476e62d4f6aab727f080935e83d72aaeb5))",
-  "download_url": "https://github.com/henr1klmb/henr1k-patches/releases/download/v1.2.0-dev.11/patches-1.2.0-dev.11.mpp",
+  "created_at": "2026-11-16T19:00:01",
+  "description": "## [1.2.0-dev.12](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.11...v1.2.0-dev.12) (2026-11-16)\n\n### 🐛 Bug Fixes\n\n* **oebb:** corrected package name ([9afd79a](https://github.com/henr1klmb/henr1k-patches/commit/9afd79ade14ccfbe492b1bfab7bb77c9b3a6fb41))",
+  "download_url": "https://github.com/henr1klmb/henr1k-patches/releases/download/v1.2.0-dev.12/patches-1.2.0-dev.12.mpp",
   "signature_download_url": "",
-  "version": "1.2.0-dev.11",
+  "version": "1.2.0-dev.12",
   "public_key": "0ip1tBaXZxd81Acs0nutzwlA8SFXe78bLG0LbVGkcAU="
 }

@@ -1,3 +1,9 @@
+## [1.2.0-dev.12](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.11...v1.2.0-dev.12) (2026-11-16)
+
+### 🐛 Bug Fixes
+
+* **oebb:** corrected package name ([9afd79a](https://github.com/henr1klmb/henr1k-patches/commit/9afd79ade14ccfbe492b1bfab7bb77c9b3a6fb41))
+
 ## [1.2.0-dev.11](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.10...v1.2.0-dev.11) (2026-11-16)
 
 ### ✨ New Features
