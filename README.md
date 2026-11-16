@@ -6,7 +6,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 
 ## Included Patches
 <!-- PATCHES_START -->
-> **[v1.2.0-dev.12](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.12)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;13 patches total
+> **[v1.2.0-dev.13](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.13)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;16 patches total
 <details open>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -75,6 +75,25 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | [Disable ads](#disable-ads) | Disables multiple ad types. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable screenshots](#enable-screenshots) | Allows taking screenshots and screen recordings. |  |
+
+</details>
+
+<details open>
+<summary>📦 mydealz&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `com.tippingcanoe.mydealz`
+
+**🎯 Supported versions:**
+
+| 8.21.01 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable tracking](#disable-tracking) | Disables Adjust, MobileAds/AdMob telemetry, and Firebase analytics. |  |
+| [Hide popups](#hide-popups) | Disables in-app review prompts, notification permission popups, and CSAT surveys. |  |
+| [Hide sponsored deals](#hide-sponsored-deals) | Hides sponsored deals, discussions, and in-feed advertisement cards. |  |
 
 </details>
 
