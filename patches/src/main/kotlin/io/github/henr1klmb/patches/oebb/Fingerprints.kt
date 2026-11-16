@@ -10,11 +10,6 @@ internal val OEBB_COMPATIBILITY = Compatibility(
     targets = listOf(AppTarget("9.0.5 (72)")),
 )
 
-internal val OEBB_TS_COMPATIBILITY = Compatibility(
-    packageName = "at.oebb.ts",
-    name = "ÖBB Scotty",
-)
-
 // Tracking Fingerprints
 
 internal object WebbugTryEnableTrackingFingerprint : Fingerprint(

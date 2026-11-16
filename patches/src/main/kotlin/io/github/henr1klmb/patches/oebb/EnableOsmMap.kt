@@ -29,7 +29,7 @@ val enableOsmMapPatch = patch(
     name = "Enable OSM map",
     description = "Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key.",
 ) {
-    compatibleWith(OEBB_COMPATIBILITY, OEBB_TS_COMPATIBILITY)
+    compatibleWith(OEBB_COMPATIBILITY)
 
     val customTileUrl by stringOption(
         key = "tileServerUrl",
