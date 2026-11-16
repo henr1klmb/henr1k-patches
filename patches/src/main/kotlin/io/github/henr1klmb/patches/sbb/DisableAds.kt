@@ -11,6 +11,7 @@ val disableAdsPatch = patch(
     description = "Disables multiple ad types.",
 ) {
     compatibleWith(SBB_COMPATIBILITY)
+    extendWith("extensions/extension.mpe")
 
     execute {
         // Hide and disable SbbAdsView when attached to window

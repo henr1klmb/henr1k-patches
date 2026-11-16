@@ -11,6 +11,7 @@ val disableTrackersPatch = patch(
     description = "Disables Tracking and Analytics.",
 ) {
     compatibleWith(NETMIRROR_COMPATIBILITY)
+    extendWith("extensions/extension.mpe")
 
     execute {
         MainWebViewClientFingerprint.method.addInstructions(

@@ -13,6 +13,7 @@ val disableAdsPatch = patch(
     description = "Blocks popup windows and ad elements.",
 ) {
     compatibleWith(NETMIRROR_COMPATIBILITY)
+    extendWith("extensions/extension.mpe")
 
     execute {
         PopupWebViewClientFingerprint.method.apply {

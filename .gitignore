@@ -139,3 +139,4 @@ tools/
 *.apkm
 *.xapk
 *.mpp
+.clineignore

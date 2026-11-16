@@ -14,6 +14,7 @@ val disableAdsPatch = patch(
     description = "Blocks Wegfinder ad, marketing banners and others.",
 ) {
     compatibleWith(OEBB_COMPATIBILITY)
+    extendWith("extensions/extension.mpe")
 
     execute {
         // Inject ad blocking script into WebViews
