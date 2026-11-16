@@ -6,7 +6,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 
 ## Included Patches
 <!-- PATCHES_START -->
-> **[v1.2.0-dev.10](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.10)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;13 patches total
+> **[v1.2.0-dev.11](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.11)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;14 patches total
 <details open>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -27,7 +27,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 </details>
 
 <details open>
-<summary>📦 NetMirror&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<summary>📦 NetMirror&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **Package name:** `app.netmirror.netmirrornew`
@@ -35,13 +35,12 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Custom icon](#custom-icon) | Changes the app name and optionally replaces the launcher icon. | • App name<br>• Custom icon PNG path (optional) |
-| [Disable ads](#disable-ads) | Blocks popup windows and ad elements. |  |
 | [Disable trackers](#disable-trackers) | Disables Tracking and Analytics. |  |
 
 </details>
 
 <details open>
-<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
 **Package name:** `de.hafas.android.oebb`
@@ -55,6 +54,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 |----------|----------------|-----------|
 | [Disable ads](#disable-ads) | Blocks Wegfinder ad, marketing banners and others. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key. | • Tile server URL |
 | [Spoof signature](#spoof-signature) | Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs. |  |
 
 </details>
@@ -75,6 +75,18 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | [Disable ads](#disable-ads) | Disables multiple ad types. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable screenshots](#enable-screenshots) | Allows taking screenshots and screen recordings. |  |
+
+</details>
+
+<details open>
+<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**Package name:** `at.oebb.ts`
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key. | • Tile server URL |
 
 </details>
 

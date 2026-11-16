@@ -1,3 +1,13 @@
+## [1.2.0-dev.11](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.10...v1.2.0-dev.11) (2026-11-16)
+
+### ✨ New Features
+
+* **oebb:** add EnableOsmMap patch using HaconMapComponent ([be86f12](https://github.com/henr1klmb/henr1k-patches/commit/be86f12a9a03f3f79b05a9a7820ebe2696f2a3c1))
+
+### 🐛 Bug Fixes
+
+* **netmirror:** modified ad patch ([22b5664](https://github.com/henr1klmb/henr1k-patches/commit/22b566476e62d4f6aab727f080935e83d72aaeb5))
+
 ## [1.2.0-dev.10](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.9...v1.2.0-dev.10) (2026-11-14)
 
 ### 🐛 Bug Fixes
