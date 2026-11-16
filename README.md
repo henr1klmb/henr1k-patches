@@ -6,7 +6,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 
 ## Included Patches
 <!-- PATCHES_START -->
-> **[v1.2.0-dev.11](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.11)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;14 patches total
+> **[v1.2.0-dev.12](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0-dev.12)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;13 patches total
 <details open>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -75,18 +75,6 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | [Disable ads](#disable-ads) | Disables multiple ad types. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable screenshots](#enable-screenshots) | Allows taking screenshots and screen recordings. |  |
-
-</details>
-
-<details open>
-<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**Package name:** `at.oebb.ts`
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key. | • Tile server URL |
 
 </details>
 
