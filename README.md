@@ -55,7 +55,6 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | [Disable ads](#disable-ads) | Blocks Wegfinder ad, marketing banners and others. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key. | • Tile server URL |
-| [Spoof signature](#spoof-signature) | Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs. |  |
 
 </details>
 
@@ -91,8 +90,8 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable tracking](#disable-tracking) | Disables Adjust, MobileAds/AdMob telemetry, and Firebase analytics. |  |
-| [Hide popups](#hide-popups) | Disables in-app review prompts, notification permission popups, and CSAT surveys. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Hide popups](#hide-popups) | Disables in-app review prompts, popups, and surveys. |  |
 | [Hide sponsored deals](#hide-sponsored-deals) | Hides sponsored deals, discussions, and in-feed advertisement cards. |  |
 
 </details>
@@ -110,7 +109,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Hide AutoModerator comments](#hide-automoderator-comments) | Automatically collapses comments from AutoModerator in threads by default. |  |
+| [Hide AutoModerator comments](#hide-automoderator-comments) | Automatically hides comments from AutoModerator in by default. |  |
 
 </details>
 
@@ -124,7 +123,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 - [ ] **ITVX** (`air.ITVMobilePlayer`) - Disable ads, focus on video ads
 - [ ] **Channel 4** (`com.channel4.ondemand`) - Disable ads, focus on video ads
 - [ ] **U** (`uk.co.uktv.dave`) - Disable ads, focus on video ads
-- [ ] **mydealz** (`com.tippingcanoe.mydealz`) – Hide sponsored deals & pop-ups, disable tracking
+- [x] **mydealz** (`com.tippingcanoe.mydealz`) – Hide sponsored deals & pop-ups, disable tracking
 
 No unlock/premium patches planned currently!
 Feel free to suggest a patch.
