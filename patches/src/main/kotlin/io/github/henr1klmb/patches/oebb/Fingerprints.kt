@@ -10,6 +10,11 @@ internal val OEBB_COMPATIBILITY = Compatibility(
     targets = listOf(AppTarget("9.0.5 (72)")),
 )
 
+internal val OEBB_TS_COMPATIBILITY = Compatibility(
+    packageName = "at.oebb.ts",
+    name = "ÖBB Scotty",
+)
+
 // Tracking Fingerprints
 
 internal object WebbugTryEnableTrackingFingerprint : Fingerprint(
@@ -75,4 +80,26 @@ internal object OebbConnectionOverviewAdFingerprint : Fingerprint(
     returnType = "Landroidx/recyclerview/widget/RecyclerView\$e0;",
     parameters = listOf("Landroid/view/ViewGroup;", "I"),
     strings = listOf("oebbAdView", "WAYFINDER_AD_ENABLED"),
+)
+
+// Map Fingerprints
+
+internal object MapScreenMapComponentFingerprint : Fingerprint(
+    returnType = "Ljava/lang/Object;",
+    parameters = listOf("Ljava/lang/Object;"),
+    strings = listOf(
+        "de.hafas.googlemap.component.GoogleMapComponent",
+        "de.hafas.haconmap.component.HaconMapComponent",
+    ),
+)
+
+internal object OsmTileProviderFingerprint : Fingerprint(
+    returnType = "V",
+    parameters = listOf("Landroid/content/Context;"),
+    strings = listOf("OSM", "MAP_SERVER_OSM", "MAP_SERVER_OSM_RETINA"),
+)
+
+internal object TileHttpConnectionFingerprint : Fingerprint(
+    returnType = "Ljava/net/HttpURLConnection;",
+    parameters = listOf("Ljava/lang/String;"),
 )
