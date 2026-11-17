@@ -1,3 +1,9 @@
+## [1.3.0-dev.3](https://github.com/henr1klmb/henr1k-patches/compare/v1.3.0-dev.2...v1.3.0-dev.3) (2026-11-17)
+
+### ✨ New Features
+
+* **hellofitpro:** add DisableAds, DisableTracking and Custom Watchfaces ([327993e](https://github.com/henr1klmb/henr1k-patches/commit/327993e9c8ea2b91ad81e5734519906ee9301502))
+
 ## [1.3.0-dev.2](https://github.com/henr1klmb/henr1k-patches/compare/v1.3.0-dev.1...v1.3.0-dev.2) (2026-11-17)
 
 ### ✨ New Features

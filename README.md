@@ -47,7 +47,7 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-> **[v1.3.0-dev.2](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;23 patches total
+> **[v1.3.0-dev.3](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
 <details>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -113,6 +113,25 @@ Tap the link below on your Android device to register this repository directly i
 |----------|----------------|-----------|
 | [Disable ads](#disable-ads) | Disables ad banners and rewarded ads |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking, Analytics and PairIP license checks. |  |
+
+</details>
+
+<details>
+<summary>📦 HelloFit Pro&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `com.app.cy.hellofitpro`
+
+**🎯 Supported versions:**
+
+| 1.3.9 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables ads. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable custom watchfaces](#enable-custom-watchfaces) | Enables custom watchfaces. |  |
 
 </details>
 
