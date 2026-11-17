@@ -1,3 +1,27 @@
+## [1.2.0](https://github.com/henr1klmb/henr1k-patches/compare/v1.1.0...v1.2.0) (2026-11-17)
+
+### ✨ New Features
+
+* add ÖBB Scotty and SBB Mobile patches and bundle DB Navigator trackers ([d27fd8a](https://github.com/henr1klmb/henr1k-patches/commit/d27fd8a5d839bcc0923eda4cf44010b6f09dfa3b))
+* add patches for mobile.de, mydealz, ÖBB Scotty, Reddit and SBB Mobile ([1bcb0ba](https://github.com/henr1klmb/henr1k-patches/commit/1bcb0ba5e490f47581c9eb97c0dcc13c3ec929f2))
+* add signature spoofing and replace ÖBB map workaround ([ab83f32](https://github.com/henr1klmb/henr1k-patches/commit/ab83f32473168345d52430379a68f691369824d0))
+* added app compatibilities, improved ÖBB ad blocking and switch from Google Maps to OpenStreetMap ([f8d0426](https://github.com/henr1klmb/henr1k-patches/commit/f8d04265f89ff73175326fa85a5a1cdc96993c0e))
+* fixed signature spoofing ([03f6038](https://github.com/henr1klmb/henr1k-patches/commit/03f60385a47d486235b7910dfd90f6a15d131281))
+* fixed signature spoofing ([204a2ff](https://github.com/henr1klmb/henr1k-patches/commit/204a2ffdf884fd0fb3f46e2adf645ec8e0a9da4f))
+* **mobilede:** add HideSponsoredAds, HideAI, HideCheck24 and DisableTracking patches ([a1288a5](https://github.com/henr1klmb/henr1k-patches/commit/a1288a5807c605424a9d6a13444709daf898c1e3))
+* **mydealz:** add DisableTracking, HideSponsoredDeals and HidePopups patches ([16dadec](https://github.com/henr1klmb/henr1k-patches/commit/16dadecd57c6366f379fde741a7a0610151e0a7f))
+* **oebb:** add EnableOsmMap patch using HaconMapComponent ([be86f12](https://github.com/henr1klmb/henr1k-patches/commit/be86f12a9a03f3f79b05a9a7820ebe2696f2a3c1))
+* **reddit:** add patch to hide AutoModerator comments by default ([5671828](https://github.com/henr1klmb/henr1k-patches/commit/567182895d9aba82eb56ead941696eb029394e03))
+
+### 🐛 Bug Fixes
+
+* modified signature spoofing ([ab51204](https://github.com/henr1klmb/henr1k-patches/commit/ab51204b342a48179965d12531bbcccbfb21358a))
+* **netmirror:** added MutationObserver to fix ad banner ([90c8a6d](https://github.com/henr1klmb/henr1k-patches/commit/90c8a6d335a655ebd55c6743cc2204513d6e568b))
+* **netmirror:** fixed ad banner at startup still showing ([873531d](https://github.com/henr1klmb/henr1k-patches/commit/873531d5a3b563d634b8cb8a2b41155fcfe7b297))
+* **netmirror:** modified ad patch ([22b5664](https://github.com/henr1klmb/henr1k-patches/commit/22b566476e62d4f6aab727f080935e83d72aaeb5))
+* **oebb:** corrected package name ([9afd79a](https://github.com/henr1klmb/henr1k-patches/commit/9afd79ade14ccfbe492b1bfab7bb77c9b3a6fb41))
+* possible fix ÖBB Scotty map tile loading and route crash ([af47c73](https://github.com/henr1klmb/henr1k-patches/commit/af47c73c23476ff607f35f4f9d2dd6d7171e22c1))
+
 ## [1.2.0-dev.14](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.13...v1.2.0-dev.14) (2026-11-17)
 
 ### ✨ New Features
