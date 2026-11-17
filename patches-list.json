@@ -77,6 +77,33 @@
     },
     {
       "name": "Disable ads",
+      "description": "Disables ad banners and rewarded ads",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.akshat.comparify",
+          "name": "Comparify",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "2.2.0",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable ads",
       "description": "Blocks Wegfinder ad, marketing banners and others.",
       "default": true,
       "category": null,
@@ -119,6 +146,33 @@
           "targets": [
             {
               "version": "12.27.0.87.master",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable tracking",
+      "description": "Disables Tracking, Analytics and PairIP license checks.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.akshat.comparify",
+          "name": "Comparify",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "2.2.0",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -534,33 +588,6 @@
           "targets": [
             {
               "version": "8.21.01",
-              "versionCodes": null,
-              "isExperimental": false,
-              "minSdk": null,
-              "description": null
-            }
-          ]
-        }
-      ],
-      "options": []
-    },
-    {
-      "name": "Spoof signature",
-      "description": "Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs.",
-      "default": true,
-      "category": null,
-      "compatiblePackages": [
-        {
-          "packageName": "de.hafas.android.oebb",
-          "name": "ÖBB Scotty",
-          "description": null,
-          "apkFileType": null,
-          "appIconColor": null,
-          "signatures": null,
-          "formFactor": "MOBILE",
-          "targets": [
-            {
-              "version": "9.0.5 (72)",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,

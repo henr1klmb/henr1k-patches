@@ -47,7 +47,7 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-<!-- Automatically populated by the release workflow -->
+
 <!-- PATCHES_END -->
 
 ---
