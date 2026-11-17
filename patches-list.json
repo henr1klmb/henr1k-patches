@@ -131,6 +131,33 @@
     },
     {
       "name": "Disable ads",
+      "description": "Disables banner, interstitial, splash ads, and ad mediation networks.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.app.cy.hellofitpro",
+          "name": "HelloFit Pro",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "1.3.9",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable ads",
       "description": "Blocks Wegfinder ad, marketing banners and others.",
       "default": true,
       "category": null,
@@ -254,6 +281,33 @@
           "targets": [
             {
               "version": "26.20.0",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable tracking",
+      "description": "Disables Umeng and AppMetrica analytics, tracking, and diagnostics.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.app.cy.hellofitpro",
+          "name": "HelloFit Pro",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "1.3.9",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -435,6 +489,33 @@
           "values": null
         }
       ]
+    },
+    {
+      "name": "Enable custom watchfaces",
+      "description": "Enables custom watchfaces, dials, and AI dial generation feature flags.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.app.cy.hellofitpro",
+          "name": "HelloFit Pro",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "1.3.9",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
     },
     {
       "name": "Enable screenshots",
