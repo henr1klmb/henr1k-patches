@@ -136,7 +136,7 @@ decompiled/
 
 # Ignore Tools
 tools/
-*.apk
 *.apkm
 *.xapk
 *.mpp
+.clineignore
