@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-11-16T19:41:14",
-  "description": "## [1.2.0-dev.13](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.12...v1.2.0-dev.13) (2026-11-16)\n\n### ✨ New Features\n\n* **mydealz:** add DisableTracking, HideSponsoredDeals and HidePopups patches ([16dadec](https://github.com/henr1klmb/henr1k-patches/commit/16dadecd57c6366f379fde741a7a0610151e0a7f))",
-  "download_url": "https://github.com/henr1klmb/henr1k-patches/releases/download/v1.2.0-dev.13/patches-1.2.0-dev.13.mpp",
+  "created_at": "2026-11-17T00:31:14",
+  "description": "## [1.2.0-dev.14](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.13...v1.2.0-dev.14) (2026-11-17)\n\n### ✨ New Features\n\n* **mobilede:** add HideSponsoredAds, HideAI, HideCheck24 and DisableTracking patches ([a1288a5](https://github.com/henr1klmb/henr1k-patches/commit/a1288a5807c605424a9d6a13444709daf898c1e3))",
+  "download_url": "https://github.com/henr1klmb/henr1k-patches/releases/download/v1.2.0-dev.14/patches-1.2.0-dev.14.mpp",
   "signature_download_url": "",
-  "version": "1.2.0-dev.13",
+  "version": "1.2.0-dev.14",
   "public_key": "0ip1tBaXZxd81Acs0nutzwlA8SFXe78bLG0LbVGkcAU="
 }

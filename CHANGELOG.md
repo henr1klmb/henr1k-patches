@@ -1,3 +1,9 @@
+## [1.2.0-dev.14](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.13...v1.2.0-dev.14) (2026-11-17)
+
+### ✨ New Features
+
+* **mobilede:** add HideSponsoredAds, HideAI, HideCheck24 and DisableTracking patches ([a1288a5](https://github.com/henr1klmb/henr1k-patches/commit/a1288a5807c605424a9d6a13444709daf898c1e3))
+
 ## [1.2.0-dev.13](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.12...v1.2.0-dev.13) (2026-11-16)
 
 ### ✨ New Features
