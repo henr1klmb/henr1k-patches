@@ -47,7 +47,7 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-> **[v1.3.0-dev.3](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+> **[v1.3.0](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
 <details>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>

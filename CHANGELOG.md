@@ -1,3 +1,12 @@
+## [1.3.0](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0...v1.3.0) (2026-11-17)
+
+### ✨ New Features
+
+* add patches for Comparify, Channel 4 and HelloFit Pro ([8264c3c](https://github.com/henr1klmb/henr1k-patches/commit/8264c3cd0ab6937f3910b6314fca9985acd73c2c))
+* **channel4:** add DisableAds and DisableTracking ([d723714](https://github.com/henr1klmb/henr1k-patches/commit/d72371440cc2f45ae0dbb81d5f509e33d566e36f))
+* **comparify:** add DisableAds and DisableTracking ([5035357](https://github.com/henr1klmb/henr1k-patches/commit/503535755e03d56125168b21fc792ce748417b7d))
+* **hellofitpro:** add DisableAds, DisableTracking and Custom Watchfaces ([327993e](https://github.com/henr1klmb/henr1k-patches/commit/327993e9c8ea2b91ad81e5734519906ee9301502))
+
 ## [1.3.0-dev.3](https://github.com/henr1klmb/henr1k-patches/compare/v1.3.0-dev.2...v1.3.0-dev.3) (2026-11-17)
 
 ### ✨ New Features
