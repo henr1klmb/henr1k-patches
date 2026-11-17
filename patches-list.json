@@ -131,7 +131,7 @@
     },
     {
       "name": "Disable ads",
-      "description": "Disables banner, interstitial, splash ads, and ad mediation networks.",
+      "description": "Disables ads.",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -200,6 +200,33 @@
           "targets": [
             {
               "version": "12.27.0.87.master",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable ads",
+      "description": "Disables any form of ads.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.peoplefun.wordcross",
+          "name": "Wordscapes",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "3.14.40",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -293,7 +320,7 @@
     },
     {
       "name": "Disable tracking",
-      "description": "Disables Umeng and AppMetrica analytics, tracking, and diagnostics.",
+      "description": "Disables Tracking and Analytics.",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -454,6 +481,33 @@
       "options": []
     },
     {
+      "name": "Disable tracking",
+      "description": "Disables Tracking and Analytics.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.peoplefun.wordcross",
+          "name": "Wordscapes",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "3.14.40",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Enable OSM map",
       "description": "Activates the built-in OpenStreetMap / HaCon map engine",
       "default": true,
@@ -492,7 +546,7 @@
     },
     {
       "name": "Enable custom watchfaces",
-      "description": "Enables custom watchfaces, dials, and AI dial generation feature flags.",
+      "description": "Enables custom watchfaces.",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -507,6 +561,33 @@
           "targets": [
             {
               "version": "1.3.9",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable instant rewards",
+      "description": "Enables instant rewards without watching video ads.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.peoplefun.wordcross",
+          "name": "Wordscapes",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "3.14.40",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
