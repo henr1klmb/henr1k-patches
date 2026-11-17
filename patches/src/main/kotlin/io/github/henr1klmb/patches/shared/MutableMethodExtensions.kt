@@ -26,9 +26,23 @@ fun MutableMethod.clearBody() {
 fun MutableMethod.ensureRegisters(needed: Int) {
     val impl = implementation ?: return
     if (impl.registerCount < needed) {
-        val field = impl.javaClass.getDeclaredField("registerCount").apply {
-            isAccessible = true
+        try {
+            val method = impl.javaClass.getMethod("setRegisterCount", Int::class.javaPrimitiveType)
+            method.invoke(impl, needed)
+            return
+        } catch (_: Throwable) {
         }
-        field.setInt(impl, needed)
+        var clazz: Class<*>? = impl.javaClass
+        while (clazz != null) {
+            try {
+                val field = clazz.getDeclaredField("registerCount").apply {
+                    isAccessible = true
+                }
+                field.setInt(impl, needed)
+                return
+            } catch (_: NoSuchFieldException) {
+                clazz = clazz.superclass
+            }
+        }
     }
 }

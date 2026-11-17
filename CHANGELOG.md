@@ -1,3 +1,9 @@
+## [1.4.0-dev.1](https://github.com/henr1klmb/henr1k-patches/compare/v1.3.0...v1.4.0-dev.1) (2026-11-17)
+
+### ✨ New Features
+
+* **wordscapes:** add DisableAds, DisableTracking and Custom EnableInstantRewards ([1b1cca3](https://github.com/henr1klmb/henr1k-patches/commit/1b1cca3f01ce375c61f9c187d0ce31b1addd7cff))
+
 ## [1.3.0](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0...v1.3.0) (2026-11-17)
 
 ### ✨ New Features
