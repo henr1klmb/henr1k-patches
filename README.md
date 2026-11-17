@@ -47,8 +47,8 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-> **[v1.2.0](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
-<details open>
+> **[v1.3.0-dev.3](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+<details>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
@@ -67,7 +67,7 @@ Tap the link below on your Android device to register this repository directly i
 
 </details>
 
-<details open>
+<details>
 <summary>📦 NetMirror&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
@@ -80,8 +80,63 @@ Tap the link below on your Android device to register this repository directly i
 
 </details>
 
-<details open>
-<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<details>
+<summary>📦 Channel 4&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**Package name:** `com.channel4.ondemand`
+
+**🎯 Supported versions:**
+
+| 9.8.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables pre-roll, mid-roll video and other ads. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+
+</details>
+
+<details>
+<summary>📦 Comparify&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**Package name:** `com.akshat.comparify`
+
+**🎯 Supported versions:**
+
+| 2.2.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables ad banners and rewarded ads |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking, Analytics and PairIP license checks. |  |
+
+</details>
+
+<details>
+<summary>📦 HelloFit Pro&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `com.app.cy.hellofitpro`
+
+**🎯 Supported versions:**
+
+| 1.3.9 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables ads. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable custom watchfaces](#enable-custom-watchfaces) | Enables custom watchfaces. |  |
+
+</details>
+
+<details>
+<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
 **Package name:** `de.hafas.android.oebb`
@@ -96,11 +151,10 @@ Tap the link below on your Android device to register this repository directly i
 | [Disable ads](#disable-ads) | Blocks Wegfinder ad, marketing banners and others. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine | • Tile server URL |
-| [Spoof signature](#spoof-signature) | Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs. |  |
 
 </details>
 
-<details open>
+<details>
 <summary>📦 SBB Mobile&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
@@ -119,7 +173,7 @@ Tap the link below on your Android device to register this repository directly i
 
 </details>
 
-<details open>
+<details>
 <summary>📦 mobile.de&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
@@ -139,7 +193,7 @@ Tap the link below on your Android device to register this repository directly i
 
 </details>
 
-<details open>
+<details>
 <summary>📦 mydealz&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
@@ -158,7 +212,7 @@ Tap the link below on your Android device to register this repository directly i
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Reddit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
