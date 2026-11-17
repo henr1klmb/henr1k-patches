@@ -77,6 +77,33 @@
     },
     {
       "name": "Disable ads",
+      "description": "Disables pre-roll, mid-roll video and other ads.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.channel4.ondemand",
+          "name": "Channel 4",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "9.8.1",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable ads",
       "description": "Disables ad banners and rewarded ads",
       "default": true,
       "category": null,
@@ -146,6 +173,33 @@
           "targets": [
             {
               "version": "12.27.0.87.master",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable tracking",
+      "description": "Disables Tracking and Analytics.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.channel4.ondemand",
+          "name": "Channel 4",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "9.8.1",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
