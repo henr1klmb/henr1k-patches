@@ -47,6 +47,133 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
+> **[v1.2.0](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.2.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
+<details open>
+<summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `de.hafas.android.db`
+
+**🎯 Supported versions:**
+
+| 26.20.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [AMOLED dark mode](#amoled-dark-mode) | Replaces dark background colors in night mode with pure black (#FF000000). |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable screenshots](#enable-screenshots) | Allow taking screenshots and screen recordings. |  |
+
+</details>
+
+<details open>
+<summary>📦 NetMirror&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**Package name:** `app.netmirror.netmirrornew`
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Custom icon](#custom-icon) | Changes the app name and optionally replaces the launcher icon. | • App name<br>• Custom icon PNG path (optional) |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+
+</details>
+
+<details open>
+<summary>📦 ÖBB Scotty&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<br>
+
+**Package name:** `de.hafas.android.oebb`
+
+**🎯 Supported versions:**
+
+| 9.0.5 (72) |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Blocks Wegfinder ad, marketing banners and others. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine | • Tile server URL |
+| [Spoof signature](#spoof-signature) | Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs. |  |
+
+</details>
+
+<details open>
+<summary>📦 SBB Mobile&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `ch.sbb.mobile.android.b2c`
+
+**🎯 Supported versions:**
+
+| 12.27.0.87.master |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables multiple ad types. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable screenshots](#enable-screenshots) | Allows taking screenshots and screen recordings. |  |
+
+</details>
+
+<details open>
+<summary>📦 mobile.de&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<br>
+
+**Package name:** `de.mobile.android.app`
+
+**🎯 Supported versions:**
+
+| 10.28.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable tracking](#disable-tracking) | Disables Trackers and Analytics. |  |
+| [Hide AI](#hide-ai) | Hides AI Assistant and summaries etc. |  |
+| [Hide CHECK24 insurance](#hide-check24-insurance) | Hides the CHECK24 vehicle insurance section in additional services. |  |
+| [Hide sponsored ads](#hide-sponsored-ads) | Hides sponsored listings, ads, and in-feed ad banners. |  |
+
+</details>
+
+<details open>
+<summary>📦 mydealz&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `com.tippingcanoe.mydealz`
+
+**🎯 Supported versions:**
+
+| 8.21.01 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Hide popups](#hide-popups) | Disables in-app review prompts, popups, and surveys. |  |
+| [Hide sponsored deals](#hide-sponsored-deals) | Hides sponsored deals, discussions, and in-feed advertisement cards. |  |
+
+</details>
+
+<details open>
+<summary>📦 Reddit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**Package name:** `com.reddit.frontpage`
+
+**🎯 Supported versions:**
+
+| 2026.46.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Hide AutoModerator comments](#hide-automoderator-comments) | Automatically collapses comments from AutoModerator in threads by default. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
