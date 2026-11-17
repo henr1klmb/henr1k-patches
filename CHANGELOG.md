@@ -1,3 +1,9 @@
+## [1.2.0-dev.13](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.12...v1.2.0-dev.13) (2026-11-16)
+
+### ✨ New Features
+
+* **mydealz:** add DisableTracking, HideSponsoredDeals and HidePopups patches ([16dadec](https://github.com/henr1klmb/henr1k-patches/commit/16dadecd57c6366f379fde741a7a0610151e0a7f))
+
 ## [1.2.0-dev.12](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0-dev.11...v1.2.0-dev.12) (2026-11-16)
 
 ### 🐛 Bug Fixes
