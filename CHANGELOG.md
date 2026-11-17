@@ -1,3 +1,9 @@
+## [1.3.0-dev.2](https://github.com/henr1klmb/henr1k-patches/compare/v1.3.0-dev.1...v1.3.0-dev.2) (2026-11-17)
+
+### ✨ New Features
+
+* **channel4:** add DisableAds and DisableTracking ([d723714](https://github.com/henr1klmb/henr1k-patches/commit/d72371440cc2f45ae0dbb81d5f509e33d566e36f))
+
 ## [1.3.0-dev.1](https://github.com/henr1klmb/henr1k-patches/compare/v1.2.0...v1.3.0-dev.1) (2026-11-17)
 
 ### ✨ New Features

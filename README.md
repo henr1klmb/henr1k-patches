@@ -47,7 +47,7 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-> **[v1.3.0-dev.1](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;21 patches total
+> **[v1.3.0-dev.2](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;23 patches total
 <details>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -76,6 +76,24 @@ Tap the link below on your Android device to register this repository directly i
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Custom icon](#custom-icon) | Changes the app name and optionally replaces the launcher icon. | • App name<br>• Custom icon PNG path (optional) |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+
+</details>
+
+<details>
+<summary>📦 Channel 4&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**Package name:** `com.channel4.ondemand`
+
+**🎯 Supported versions:**
+
+| 9.8.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables pre-roll, mid-roll video and other ads. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 
 </details>
