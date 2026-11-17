@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧩 Henrik's Morphe Patches
+# 🧩 Henriks Morphe Patches
 
-**A personal collection of Android bytecode & resource patches built for the Morphe Patcher.**
+**A personal collection of Android patches built for the Morphe Patcher.**
 
 [![Release](https://img.shields.io/github/v/release/henr1klmb/henr1k-patches?style=for-the-badge&color=6E56CF)](https://github.com/henr1klmb/henr1k-patches/releases)
 [![Pre-Release](https://img.shields.io/github/v/release/henr1klmb/henr1k-patches?include_prereleases&label=dev&style=for-the-badge&color=E5484D)](https://github.com/henr1klmb/henr1k-patches/releases)
