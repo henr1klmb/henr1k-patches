@@ -47,7 +47,7 @@ Tap the link below on your Android device to register this repository directly i
 ## 🩹 Available Patches
 
 <!-- PATCHES_START -->
-> **[v1.3.0](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+> **[v1.4.0-dev.1](https://github.com/henr1klmb/henr1k-patches/releases/tag/v1.4.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;29 patches total
 <details>
 <summary>📦 DB Navigator&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -170,6 +170,25 @@ Tap the link below on your Android device to register this repository directly i
 | [Disable ads](#disable-ads) | Disables multiple ad types. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
 | [Enable screenshots](#enable-screenshots) | Allows taking screenshots and screen recordings. |  |
+
+</details>
+
+<details>
+<summary>📦 Wordscapes&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**Package name:** `com.peoplefun.wordcross`
+
+**🎯 Supported versions:**
+
+| 3.14.40 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ads](#disable-ads) | Disables any form of ads. |  |
+| [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
+| [Enable instant rewards](#enable-instant-rewards) | Enables instant rewards without watching video ads. |  |
 
 </details>
 
