@@ -130,33 +130,6 @@
       "options": []
     },
     {
-      "name": "Disable trackers",
-      "description": "Disables Tracking and Analytics.",
-      "default": true,
-      "category": null,
-      "compatiblePackages": [
-        {
-          "packageName": "app.netmirror.netmirrornew",
-          "name": "NetMirror",
-          "description": null,
-          "apkFileType": null,
-          "appIconColor": null,
-          "signatures": null,
-          "formFactor": "MOBILE",
-          "targets": [
-            {
-              "version": null,
-              "versionCodes": null,
-              "isExperimental": false,
-              "minSdk": null,
-              "description": null
-            }
-          ]
-        }
-      ],
-      "options": []
-    },
-    {
       "name": "Disable tracking",
       "description": "Disables Tracking and Analytics.",
       "default": true,
@@ -185,7 +158,34 @@
     },
     {
       "name": "Disable tracking",
-      "description": "Disables Adjust, MobileAds/AdMob telemetry, and Firebase analytics.",
+      "description": "Disables Trackers and Analytics.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "de.mobile.android.app",
+          "name": "mobile.de",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "10.28.2",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable tracking",
+      "description": "Disables Tracking and Analytics.",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -200,6 +200,33 @@
           "targets": [
             {
               "version": "8.21.01",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable tracking",
+      "description": "Disables Tracking and Analytics.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "app.netmirror.netmirrornew",
+          "name": "NetMirror",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": null,
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -266,7 +293,7 @@
     },
     {
       "name": "Enable OSM map",
-      "description": "Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key.",
+      "description": "Activates the built-in OpenStreetMap / HaCon map engine",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -356,6 +383,33 @@
       "options": []
     },
     {
+      "name": "Hide AI",
+      "description": "Hides AI Assistant and summaries etc.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "de.mobile.android.app",
+          "name": "mobile.de",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "10.28.2",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Hide AutoModerator comments",
       "description": "Automatically collapses comments from AutoModerator in threads by default.",
       "default": true,
@@ -383,8 +437,35 @@
       "options": []
     },
     {
+      "name": "Hide CHECK24 insurance",
+      "description": "Hides the CHECK24 vehicle insurance section in additional services.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "de.mobile.android.app",
+          "name": "mobile.de",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "10.28.2",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Hide popups",
-      "description": "Disables in-app review prompts, notification permission popups, and CSAT surveys.",
+      "description": "Disables in-app review prompts, popups, and surveys.",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -399,6 +480,33 @@
           "targets": [
             {
               "version": "8.21.01",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Hide sponsored ads",
+      "description": "Hides sponsored listings, ads, and in-feed ad banners.",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "de.mobile.android.app",
+          "name": "mobile.de",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "10.28.2",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,

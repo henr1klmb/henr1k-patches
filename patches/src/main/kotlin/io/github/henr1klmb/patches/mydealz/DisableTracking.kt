@@ -8,7 +8,7 @@ private const val RETURN_VOID = "return-void"
 @Suppress("unused")
 val disableTrackingPatch = patch(
     name = "Disable tracking",
-    description = "Disables Adjust, MobileAds/AdMob telemetry, and Firebase analytics.",
+    description = "Disables Tracking and Analytics.",
 ) {
     compatibleWith(MYDEALZ_COMPATIBILITY)
 

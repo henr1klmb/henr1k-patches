@@ -6,7 +6,7 @@ import app.morphe.patcher.patch.patch
 @Suppress("unused")
 val hidePopupsPatch = patch(
     name = "Hide popups",
-    description = "Disables in-app review prompts, notification permission popups, and CSAT surveys.",
+    description = "Disables in-app review prompts, popups, and surveys.",
 ) {
     compatibleWith(MYDEALZ_COMPATIBILITY)
 

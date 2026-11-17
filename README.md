@@ -35,7 +35,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Custom icon](#custom-icon) | Changes the app name and optionally replaces the launcher icon. | • App name<br>• Custom icon PNG path (optional) |
-| [Disable trackers](#disable-trackers) | Disables Tracking and Analytics. |  |
+| [Disable tracking](#disable-trackers) | Disables Tracking and Analytics. |  |
 
 </details>
 
@@ -54,8 +54,7 @@ Custom [Morphe](https://github.com/MorpheApp) patches for multiple Apps
 |----------|----------------|-----------|
 | [Disable ads](#disable-ads) | Blocks Wegfinder ad, marketing banners and others. |  |
 | [Disable tracking](#disable-tracking) | Disables Tracking and Analytics. |  |
-| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key. | • Tile server URL |
-| [Spoof signature](#spoof-signature) | Spoofs the original package signature so Google Maps and signature checks succeed on re-signed APKs. |  |
+| [Enable OSM map](#enable-osm-map) | Activates the built-in OpenStreetMap / HaCon map engine. | • Tile server URL |
 
 </details>
 

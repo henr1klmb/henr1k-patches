@@ -27,7 +27,7 @@ private fun updateOrAppendProperty(text: String, key: String, value: String): St
 @Suppress("unused")
 val enableOsmMapPatch = patch(
     name = "Enable OSM map",
-    description = "Activates the built-in OpenStreetMap / HaCon map engine without requiring a Google Maps API key.",
+    description = "Activates the built-in OpenStreetMap / HaCon map engine",
 ) {
     compatibleWith(OEBB_COMPATIBILITY)
 
